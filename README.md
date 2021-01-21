@@ -1,3 +1,5 @@
+go mod init github.com/Sevii/pepper-exchange
+go build -o api cmd/exchange/*.go
 
 
 Welcome to Pepper Exchange this is a rough demo cryptocurrency exchange. 
